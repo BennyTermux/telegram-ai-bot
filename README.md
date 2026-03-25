@@ -81,7 +81,7 @@ pip install --upgrade pip
 
 ### Step 3 — Clone the project
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram-ai-bot.git
+git clone https://github.com/BennyTermux/telegram-ai-bot.git
 cd telegram-ai-bot
 ```
 
